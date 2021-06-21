@@ -1,0 +1,25 @@
+h1{
+background-color: rgb(8, 11, 51);
+color: sandybrown;
+text-align: center;
+margin-top: 7%;
+margin-right: 10%;
+margin-left: 10%;
+}
+
+h3{
+background-color: rgb(206, 99, 99);
+color: indigo;
+margin: 50px;
+margin-right: 30%;
+margin-left: 30%;
+text-align: center;
+}
+
+p{
+margin-left: 40%;
+margin-right: 40%;
+text-align: justify;
+text-justify:inter-word;
+}
+
