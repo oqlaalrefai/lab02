@@ -28,7 +28,7 @@ question_one()
 
 function question_two(){
 let age= prompt('Do you think my age is below 30 years?')
-if(age.toLocaleLowerCase() == 'yes' || study.toLocaleLowerCase() == 'y'){
+if(age.toLocaleLowerCase() == 'yes' || age.toLocaleLowerCase() == 'y'){
     alert('Yes! your answer is correct!');
     console.log ('Yes! your answer is correct!');
     score = score + 1
