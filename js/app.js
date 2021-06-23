@@ -106,7 +106,7 @@ question_five();
 
 
 //question number 6:..............................................
-question_six(){
+function question_six(){
 for (let i=0; i<4 ; i++){
     let guess = prompt('Guess a number!')
     let num = 5
